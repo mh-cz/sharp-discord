@@ -1,6 +1,6 @@
 # sharp-discord
 An unrounded Better Discord theme
 
-Because round =/= modern.
+Because round =/= modern
 
 Square pfps etc
