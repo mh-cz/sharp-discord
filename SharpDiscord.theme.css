@@ -1,0 +1,37 @@
+//META{"name":"SharpDiscord","description":"Round =/= Modern","author":"maras","version":"1.0.3","authorId":"826097386925326352"}*//{}
+
+foreignObject {
+    mask: none;
+}
+
+[class^="avatar"],
+[class^="icon"],
+[class^="image"],
+[class^="scrollableContainer"],
+[class^="anchor"],
+.platform-win [class^="sidebar"],
+[class^="searchBar-"],
+[class*="auto-"]::-webkit-scrollbar-thumb,
+[class*="auto-"]::-webkit-scrollbar-track,
+[class^="embed"],
+[class^="wrapper"],
+[class^="embed"] video,
+[class^="embed"] img,
+[class^="expand"],
+[class^="folder"],
+[class^="meta"],
+[class^="cont"],
+[class^="role"],
+[class^="bar"],
+[class^="newMessagesBar"],
+[class^="input"],
+[class^="userPopout"],
+[class^="menu"] {
+    border-radius: 0px;
+}
+
+[class^="pointerEvents"] {
+    transform: translate(8px);
+}
+
+
