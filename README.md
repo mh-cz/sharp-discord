@@ -3,4 +3,4 @@ An unrounded Better Discord theme
 
 Because round ≠ modern
 
-Square profile pictures and server icons etc
+Square profile pictures, server icons etc
