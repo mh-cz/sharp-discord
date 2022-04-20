@@ -1,5 +1,5 @@
 # sharp-discord
-An unrounded Better Discord theme
+An unrounded BetterDiscord theme
 
 Because round ≠ modern
 
