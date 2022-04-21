@@ -14,7 +14,7 @@ foreignObject {
 .platform-win [class^="sidebar"], /*the channel list on the left*/
 [class^="searchBar-"], /*search bar*/
 [class*="auto-"]::-webkit-scrollbar-thumb, /*scroll bar (the moving part)*/
-[class*="auto-"]::-webkit-scrollbar-track, /*scroll bar (the long vertical part)*/
+[class*="auto-"]::-webkit-scrollbar-track, /*scroll bar (the static part)*/
 [class^="embed"], /*embed*/
 [class^="wrapper"], /*icons etc*/
 [class^="embed"] video, /*videos*/
